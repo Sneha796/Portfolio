@@ -1,1 +1,12 @@
+<h3> 📧snehanikam796@gmail.com</h3>
+<h3> ☎7738149071 </h3>
+<h3> 📍Panvel, Maharashtra
 
+<div class="contact">
+Name:<input type="text" placeholder="Enter your name">
+<br><br>
+Email:<input type="text" placeholder="Enter your email I'd">
+<br><br>
+Message:<textarea name="message" rows=5>message</textarea>
+<button>Send Message</button>
+</div>
